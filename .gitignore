@@ -3,4 +3,5 @@ node_modules/
 out/
 build/
 .DS_Store
-*.log
+*.log
+config.bat
